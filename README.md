@@ -8,5 +8,6 @@ To run the API:
 2) To view the API, visit: http://localhost:8000/api/users/
 
  To run the app:
-1) run ``` npm start ```
+1) Navigate to the ```users-fe``` subdirectory
+2) run ``` npm start ```
 2) To view the app, visit: http://localhost:3000/ 
